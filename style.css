@@ -8,7 +8,7 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: winghell
 */
-
+@import "css/bootstrap.css";
 body{
   background-color: #555555;
 }
