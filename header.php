@@ -9,5 +9,6 @@
   </head>
   <body>
       <header>
+        <?php wp_nav_menu( array('theme_location' => 'main')); ?>
         <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="">
       </header>
